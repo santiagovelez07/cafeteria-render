@@ -1,0 +1,11 @@
+.env
+*.ipynb
+.ipynb_checkpoints
+__pycache__
+.pytest_cache
+solara.log
+.solara.pid
+tests
+mi_proyecto
+.git
+.github
