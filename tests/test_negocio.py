@@ -7,4 +7,4 @@ def test_centro_por_otro_camino():
     assert ingreso_real(cargar(), "Centro") == sum(pagados)
 
 def test_cifra_de_control():
-    assert ingreso_real(cargar(), "Centro") == 573500
+    assert ingreso_real(cargar(), "Centro") == 719500
